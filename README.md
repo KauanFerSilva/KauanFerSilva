@@ -5,13 +5,6 @@
 
 <br />
 
-<!-- SUBTÍTULO ESTILO TERMINAL / MONOSPACE -->
-<div align="center">
-  <h3 align="center">
-    <code>&gt;_Dominando Python &amp; Bancos de Dados</code>
-  </h3>
-</div>
-
 <br />
 
 <!-- BADGES DE STATUS DE SISTEMA -->

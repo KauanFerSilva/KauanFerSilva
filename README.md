@@ -41,6 +41,6 @@ Olá! Sou o **Kauan Ferreira**, Atualmente estou cursando Engenharia de Software
 <!-- ÍCONES QUADRADOS DAS TECNOLOGIAS -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,c,vscode,html,css" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,html,css,github" alt="Minhas Tecnologias" />
   </a>
 </p>

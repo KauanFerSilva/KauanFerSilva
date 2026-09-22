@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR COM CURVAS/GRADIENTE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:03045e&height=200&section=header&text=SEU%20NOME%20AQUI&fontSize=42&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=SYSTEM%20INITIALIZED%20%7C%20DEVELOPER%20CORE%20v2.6&descSize=14&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:03045e&height=200&section=header&text=Kauan%20Ferreira%20&fontSize=42&fontColor=ffffff&animation=twinkle&fontAlignY=38&descSize=14&descAlignY=62" width="100%" alt="Header Banner" />
 </div>
 
 <br />

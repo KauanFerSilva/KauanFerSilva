@@ -24,7 +24,7 @@
 
 <br />
 
-Olá! Sou o **Kauan Ferreira**, Atualmente estou cursando Engenharia de Software e por meio meio disso venho aprofundando meus estudos á tecnologia, com conhecimentos básicos em Python, HTML5 e CSS3, Banco de Dados, UX/UI. Quero me tornar futuramente um Desenvolvedor Back-End e para isso sempre aprimorando meus conhecimentos na teclogia.
+Olá! Sou o **Kauan Ferreira**, Atualmente venho aprofundando meus estudos á tecnologia, com conhecimentos básicos em Python, HTML5 e CSS3, Banco de Dados, UX/UI. Quero me tornar futuramente um Desenvolvedor Back-End e para isso sempre aprimorando meus conhecimentos na teclogia.
 
 🛠 **Stack Tecnológico:** Python, HTML5, CSS3, Banco de Dados, Git/GitHub.
 
